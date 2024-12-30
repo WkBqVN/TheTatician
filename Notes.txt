@@ -1,0 +1,17 @@
+1. should we split images or just all in one image?
+2. should we use one file for one character or something?
+
+3. we need get custom action is best way to use for heroes and unit
+
+death attack1 attack2 move idle
+
+managed game on object which is a tile (have unit on it get status?)
+
+when unit attact(example) -> get tile status, weather status, -> match object
+player have list unit
+
+terrain layer, weather layer, unit layer
+
+read app config, core -> must init config first before all everything (window size, users, or some display mode first) 
+
+3 element (top panel, bot panel right panel)
